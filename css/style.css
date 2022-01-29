@@ -1,0 +1,52 @@
+h1 {
+	color: darkmagenta;
+}
+h2 {
+	color: mediumslateblue;
+}
+h3 {
+	color: rebeccapurple;
+}
+.content,
+.list {
+	color: rgb(0, 17, 255);
+}
+.jewelry.pierced {
+	color: indigo;
+}
+div.jewelry {
+	color: goldenrod;
+}
+#piercing {
+	color: rgb(223, 29, 136);
+}
+.remark {
+	color: rgb(175, 173, 173);
+}
+p span {
+	color: red;
+}
+span {
+	color: lawngreen;
+}
+a {
+	color: rgb(247, 0, 255);
+}
+.paragraph .paragraph__text {
+	color: saddlebrown;
+}
+.footer {
+	color: rgb(159, 37, 207);
+}
+[title="Раздел"] {
+	color: green;
+}
+[title="Подраздел"] {
+	color: rgb(174, 190, 22);
+}
+[class*="__p"] {
+	color: turquoise;
+}
+.section > p {
+	color: thistle;
+}
